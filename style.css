@@ -1,0 +1,38 @@
+.tution-classes{
+    background-color:white ;
+    font-size: 40px;
+    text-align: center;
+    color:red;
+    text-transform: uppercase;
+    text-decoration: underline 0.3px solid black;
+}
+
+.author{
+    border: 4px solid black;
+    color: darkgreen;
+    font-size: 20px;
+    display: -moz-stack
+    
+}
+.currculum{
+    background-color:;
+    
+}
+
+.c20{
+   background-color: azure;
+
+h1{
+    background-color: rgb(222, 222, 235);
+}
+
+h2{
+    background-color: bisque;
+    width: 500px;
+    font-size: 30px;
+}
+
+h3{
+    background-color: greenyellow;
+    width: 300px;
+}
